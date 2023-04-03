@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohit yadav
 - 👀 I’m interested in Programing
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning JAVA
 - 📫 How to reach me mohitky2018@gmail..com
 
 <!---
