@@ -1,9 +1,25 @@
-- 👋 Hi, I’m Mohit yadav
-- 👀 I’m interested in Programing
-- 🌱 I’m currently learning JAVA
-- 📫 How to reach me mohitky2018@gmail..com
+# Mohit Yadav
 
-<!---
-mohitky/mohitky is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[![Website](https://img.shields.io/badge/Website-heygeeks.in-brightgreen)](http://heygeeks.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-mohitky2018-blue)](https://linkedin.com/in/mohitky2018)
+[![GitHub](https://img.shields.io/badge/GitHub-mohitky2018-lightgrey)](https://github.com/mohitky2018)
+[![Medium](https://img.shields.io/badge/Medium-@mohitky2018-black)](https://medium.com/@mohitky2018)
+
+---
+
+### About Me
+
+👋 Hi, I’m Mohit Yadav!  
+
+---
+
+### 🛠️ Tech Stack
+
+- **Languages:** C++, PHP, JavaScript, HTML/CSS  
+- **Frameworks:** Laravel, Vue.js, JQuery, AJAX  
+- **Databases:** MySQL, MongoDB  
+- **Cloud Services:** AWS, GCP, Firebase  
+- **Version Control:** Git, GitHub, Bazel  
+- **Tools:** Docker, Adobe XD, DaVinci Resolve  
+
+---
